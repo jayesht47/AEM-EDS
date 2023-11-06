@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# AEM EDS Demo
+Personal project to try Document Based Authoring in EDS and to do POCs
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--AEM-EDS--jayesht47.hlx.page/
+- Live: https://main--AEM-EDS--jayesht47.hlx.live/
 
 ## Installation
 
